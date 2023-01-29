@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "fullName": "Малик Алексей",
+    "photo": "./img/team/AlexM.jpg",
+    "dateOfBirth": "27.06.1994",
+    "yo": "28",
+    "height": "182",
+    "weight": "70",
+    "post": "Front-end developer",
+    "hobby": "компьютерные игры, книги, музыка"
+  },
+  {
+    "id": 2,
+    "fullName": "Храмова Анастасия",
+    "photo": "./img/team/Nastia.jpg",
+    "dateOfBirth": "04.01.2000",
+    "yo": "21",
+    "height": "167",
+    "weight": "50",
+    "post": "Front-end developer",
+    "hobby": "сон, книги, спорт"
+  },
+  {
+    "id": 3,
+    "fullName": "Николаева Наталия",
+    "photo": "./img/team/Natasha.jpeg",
+    "dateOfBirth": "19.09.2001",
+    "yo": "19",
+    "height": "157",
+    "weight": "47",
+    "post": "Front-end developer",
+    "hobby": "психология, танцы"
+  },
+  {
+    "id": 4,
+    "fullName": "Рашевский Алексей",
+    "photo": "./img/team/AlexR.jpg",
+    "dateOfBirth": "31.01.2000",
+    "yo": "21",
+    "height": "185",
+    "weight": "68",
+    "post": "Front-end developer",
+    "hobby": "компютерные игры,музыка"
+  },
+  {
+    "id": 5,
+    "fullName": "Грушевская Марина",
+    "photo": "./img/team/Marina.jpg",
+    "dateOfBirth": "19.04.1994",
+    "yo": "26",
+    "height": "172",
+    "weight": "55",
+    "post": "Front-end developer",
+    "hobby": "сноубординг ,путешествия, музыка"
+  },
+  {
+    "id": 6,
+    "fullName": "Мосийчук Александр",
+    "photo": "./img/team/Alexandr.jpeg",
+    "dateOfBirth": "09.12.1998",
+    "yo": "22",
+    "height": "191",
+    "weight": "71",
+    "post": "QA Engineer",
+    "hobby": "путешевствия,танцы"
+  },
+  {
+    "id": 7,
+    "fullName": "Франкова Юлия",
+    "photo": "./img/team/Julia.jpeg",
+    "dateOfBirth": "17.03.1997",
+    "yo": 24,
+    "height": 163,
+    "weight": 50,
+    "post": "QA Engineer",
+    "hobby": [
+      "бег",
+      "чтение книг",
+      "йога"
+    ]
+  },
+  {
+    "id": 8,
+    "fullName": "Тимощук Анастасия",
+    "photo": "./img/team/AnastasiaT.jpg",
+    "dateOfBirth": "13.06.1996",
+    "yo": "24",
+    "height": "165",
+    "weight": "60",
+    "post": "Web designer",
+    "hobby": "фотография,рисование"
+  }
+]
